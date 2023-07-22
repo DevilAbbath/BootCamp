@@ -17,5 +17,5 @@ Bootcamp...
 >>flujoCicloMetodo3_2.rb (Adivina el Numero)
 >>flujoCicloMetodo3_3.rb (Calculo IMC)
 
->M4-D4
+>M4-DEx
 >>examen.rb (Evaluacion factorizacion de codigo ruby)
